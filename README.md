@@ -1,7 +1,7 @@
 ## Vitsta360 - Interactive 3D Map of VIT Bhopal
 ![Page View](https://github.com/SameerKumar24042004/VITsta360/blob/main/VITsta360%20videos/1.gif)
 
-🔗 Project URL: https://vitsta360.techynar.com/
+🔗 Project URL: https://vi-tsta360-cm4v.vercel.app/
 
 (Note: Image resolution may vary depending on your internet 🛜 speed.)
 
