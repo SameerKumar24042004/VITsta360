@@ -139,6 +139,17 @@ body {
 /* ===========================
    MODEL CONTAINER
    =========================== */
+.model-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  position: relative;
+  min-height: 50vh;
+}
+
 .model-wrapper {
   position: relative;
   width: 100%;
@@ -176,9 +187,6 @@ model-viewer::after {
   pointer-events: none;
   z-index: 20;
 }
-/* ===========================
-   STREET VIEW BUTTON
-   =========================== */
 .street-view-btn {
   position: absolute;
   top: var(--spacing-md);
