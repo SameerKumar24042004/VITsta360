@@ -162,7 +162,7 @@ model-viewer {
   position: relative;
   z-index: 15;
   pointer-events: auto;
-  margin-bottom: -120px;
+  margin-bottom: -40px;
 }
 
 /* Disable interaction on bottom portion */
