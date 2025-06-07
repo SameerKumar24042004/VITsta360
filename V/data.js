@@ -4,7 +4,7 @@ var APP_DATA = {
       "id": "0-main",
       "name": "Main",
       "levels": [
-        {
+        {  
           "tileSize": 256,
           "size": 256,
           "fallbackOnly": true
